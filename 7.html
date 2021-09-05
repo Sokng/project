@@ -10,9 +10,6 @@
 var request = new XMLHttpRequest();
 request.open("GET", "7.json", false);
 request.send(null)
-
-
-const txt = '{"name":"John", "age":30, "city":"New York"}'
 const obj = JSON.parse(request.responseText);
 document.getElementById("demo").innerHTML = obj.name + ", " + obj.age;
 </script>
