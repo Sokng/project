@@ -34,12 +34,12 @@ a {
 			url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDIiPjxjaXJjbGUgZmlsbD0iI2ZmZiIgY3g9IjMuNSIgY3k9IjEiIHI9IjEiLz48L3N2Zz4=);
 		content: "";
 	}
-	&::after {
+	::after {
 		order: 2;
 		content: "p." attr(data-page);
 	}
-	&:hover,
-	&:focus {
+	:hover,
+	:focus {
 		color: black;
 	}
 }
