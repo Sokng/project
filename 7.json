@@ -1,14 +1,44 @@
 {
-    "Sheet1": [
+    "Popular Items": [
         {
-            "User_name": "John",
-            "score": "30",
-            "team": "New York"
+            "Name": "General Tso Chicken (左宗棠雞)",
+            "Price": "13.99"
         },
         {
-            "User_name": "coco",
-            "score": "30",
-            "team": "TX"
+            "Name": "Combination Fried Rice (招牌炒飯)",
+            "Price": "12.99"
+        },
+        {
+            "Name": "Shrimp Fried Rice (鮮蝦炒飯)",
+            "Price": "13.99"
+        },
+        {
+            "Name": "Beef Fried Rice (生炒牛肉飯)",
+            "Price": "12.99"
+        },
+        {
+            "Name": "Orange Chicken (香橙雞球)",
+            "Price": "13.99"
+        },
+        {
+            "Name": "Sweet & Sour Chicken (甜酸雞)",
+            "Price": "13.99"
+        },
+        {
+            "Name": "Steamed Dumplings (蒸水餃)",
+            "Price": "9.99"
+        },
+        {
+            "Name": "Salt & Pepper Spare Ribs (椒鹽小排骨)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Sweet and Sour Spare Ribs (生炒骨)",
+            "Price": "17.99"
+        },
+        {
+            "Name": "Chicken Fried Rice (雞粒炒飯)",
+            "Price": "12.99"
         }
     ]
 }
