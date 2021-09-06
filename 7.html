@@ -46,7 +46,7 @@
 </head>
 
 <body>
-	<h1>9:10</h1>
+	<h1>9:20</h1>
 <table>
   <tr>
     <th>User_Name</th>
@@ -61,7 +61,7 @@ var tr;
 request.open("GET", "7.json", false);
 request.send(null)
 const obj = JSON.parse(request.responseText);
-document.getElementById("demo").innerHTML = obj.Sheet1[1].User_name;
+document.getElementById("demo").innerHTML = obj.Sheet1.length;
 </script>	
 </body>
 
