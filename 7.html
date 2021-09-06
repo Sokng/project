@@ -3,7 +3,6 @@
 <body>
 
 <h2>Creating an Object from a JSON String3</h2>
-  
   <table>
   <tr>
     <th>User_Name</th>
@@ -11,30 +10,21 @@
     <th>team</th>
   </tr>
 </table>
-
-<p id="demo"></p>
-
 <script>
-  $(document).ready(function () 
+$(document).ready(function () 
 {
-var request = new XMLHttpRequest();
-request.open("GET", "7.json", false);
-request.send(null)
-const obj = JSON.parse(request.responseText);
-    
-    
-    
-     var tr;
+        var json = [{"User_Name":"John Doe","score":"10","team":"1"},{"User_Name":"Jane Smith","score":"15","team":"2"},{"User_Name":"Chuck Berry","score":"12","team":"2"}];
+        var tr;
         for (var i = 0; i < json.length; i++) {
             tr = $('<tr/>');
-            tr.append("<td>" + obj.Sheet1[i].User_Name + "</td>");
-            tr.append("<td>" + obj.Sheet1[i].score + "</td>");
-            tr.append("<td>" + obj.Sheet1[i].team + "</td>");
+            tr.append("<td>" + json[i].User_Name + "</td>");
+            tr.append("<td>" + json[i].score + "</td>");
+            tr.append("<td>" + json[i].team + "</td>");
             $('table').append(tr);
         }
 });
-
 </script>
+
 
 </body>
 </html>
