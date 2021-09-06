@@ -63,7 +63,7 @@ a {
 </head>
 
 <body>
-	<h1>Menu1</h1>
+	<h1>Menu2</h1>
 	<ul>
 
 </ul>
@@ -76,7 +76,7 @@ const obj = JSON.parse(request.responseText);
 var li;
 for (var i = 0; i < obj.PopularItems.length; i++) {
             li = $('<li>');
-            li.append('<a href="#" data-page="1">' + obj.PopularItems[i].Name + "</a></li>");
+            li.append(obj.PopularItems[i].Name /n obj.PopularItems[i].Price </li>");
             $('ul').append(li);
         }
 </script>	
