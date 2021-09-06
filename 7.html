@@ -11,44 +11,64 @@
 
 	<!-- CSS FOR STYLING THE PAGE -->
 	<style>
-		table {
-			margin: 0 auto;
-			font-size: large;
-			border: 1px solid black;
-		}
+ul {
+	width: 60%;
+	margin: auto;
+	padding: 0;
+	list-style: none;
+}
+li {
+	margin: .5em 0;
+}
+a {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: baseline;
+	text-decoration: none;
+	transition: color .2s ease-in-out;
+	&::before {
+		height: .1em;
+		flex: 1 1 auto;
+		order: 1;
+		background: left bottom / contain repeat-x url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDIiPjxjaXJjbGUgZmlsbD0iI2ZmZiIgY3g9IjMuNSIgY3k9IjEiIHI9IjEiLz48L3N2Zz4=);
+		content: '';
+	}
+	&::after {
+		order: 2;
+		content: 'p.' attr(data-page);
+	}
+	&:hover,
+	&:focus {
+		color: black;
+	}
+}
 
-		h1 {
-			text-align: center;
-			color: #006600;
-			font-size: xx-large;
-			font-family: 'Gill Sans',
-				'Gill Sans MT', ' Calibri',
-				'Trebuchet MS', 'sans-serif';
-		}
-
-		td {
-			background-color: #E4F5D4;
-			border: 1px solid black;
-		}
-
-		th,
-		td {
-			font-weight: bold;
-			border: 1px solid black;
-			padding: 10px;
-			text-align: center;
-		}
-
-		td {
-			font-weight: lighter;
-		}
+/* misc */
+html, body { height: 100%; }
+body { display: flex; background: #3498db; color: white; font: 1.5em/1.4 "lato"; font-weight: 300; }
+a { color: inherit; }
 	</style>
 </head>
 
 <body>
 	<h1>Manu</h1>
 	<h3>Popular Items</h3>
-<table>
+
+	
+	<ul>
+	<li><a href="#" data-page="1">Lorem ipsum</a></li>
+	<li><a href="#" data-page="4">Delectus, sint</a></li>
+	<li><a href="#" data-page="5">Vel, illo</a></li>
+	<li><a href="#" data-page="8">Dolorem, excepturi</a></li>
+	<li><a href="#" data-page="11">Ab, reprehenderit</a></li>
+	<li><a href="#" data-page="13">Ipsum, adipisci</a></li>
+	<li><a href="#" data-page="17">Cumque, totam</a></li>
+	<li><a href="#" data-page="20">Incidunt, alias</a></li>
+	<li><a href="#" data-page="21">Itaque, necessitatibus</a></li>
+	<li><a href="#" data-page="25">Quidem, qui</a></li>
+</ul>
+	
+	<table>
   <tr>
     <th>Items</th>
     <th>Price</th>
@@ -56,16 +76,14 @@
 </table>
 <script>
 var request = new XMLHttpRequest();
-var tr;
 request.open("GET", "7.json", false);
 request.send(null)
 const obj = JSON.parse(request.responseText);
-	     var tr;
-	for (var i = 0; i < obj.PopularItems.length; i++) {
-            tr = $('<tr/>');
-            tr.append("<td>" + obj.PopularItems[i].Name + "</td>");
-            tr.append("<td>" + obj.PopularItems[i].Price + "</td>");
-            $('table').append(tr);
+var li;
+for (var i = 0; i < obj.PopularItems.length; i++) {
+            li = $('<li/>');
+            li.append('<a href="#" data-page="'+ obj.PopularItems[i].Price + '">' + obj.PopularItems[i].Name + "</a></li>");
+            $('ul').append(li);
         }
 </script>	
 </body>
