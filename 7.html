@@ -54,14 +54,20 @@
     <th>team</th>
   </tr>
 </table>
-<p id="demo"></p>
 <script>
 var request = new XMLHttpRequest();
 var tr;
 request.open("GET", "7.json", false);
 request.send(null)
 const obj = JSON.parse(request.responseText);
-document.getElementById("demo").innerHTML = obj.Sheet1.length;
+	     var tr;
+	for (var i = 0; i < obj.Sheet1.length; i++) {
+            tr = $('<tr/>');
+            tr.append("<td>" + obj.Sheet1[i].User_Name + "</td>");
+            tr.append("<td>" + obj.Sheet1[i].score + "</td>");
+            tr.append("<td>" + obj.Sheet1[i].team + "</td>");
+            $('table').append(tr);
+        }
 </script>	
 </body>
 
