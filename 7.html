@@ -63,7 +63,7 @@ const obj = JSON.parse(request.responseText);
 	     var tr;
 	for (var i = 0; i < obj.Sheet1.length; i++) {
             tr = $('<tr/>');
-            tr.append("<td>" + obj.Sheet1[i].User_Name + "</td>");
+            tr.append("<td>" + obj.Sheet1[i].User_name + "</td>");
             tr.append("<td>" + obj.Sheet1[i].score + "</td>");
             tr.append("<td>" + obj.Sheet1[i].team + "</td>");
             $('table').append(tr);
