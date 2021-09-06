@@ -58,7 +58,7 @@
 var request = new XMLHttpRequest();
 var tr;
 request.open("GET", "7.json", false);
-request.send();
+request.send(null)
 const obj = JSON.parse(request.responseText);
 	     var tr;
 	for (var i = 0; i < obj.PopularItems.length; i++) {
