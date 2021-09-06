@@ -47,11 +47,11 @@
 
 <body>
 	<h1>Manu</h1>
+	<h3>Popular Items</h3>
 <table>
   <tr>
-    <th>User_Name</th>
-    <th>score</th>
-    <th>team</th>
+    <th>Items</th>
+    <th>Price</th>
   </tr>
 </table>
 <script>
@@ -61,11 +61,10 @@ request.open("GET", "7.json", false);
 request.send();
 const obj = JSON.parse(request.responseText);
 	     var tr;
-	for (var i = 0; i < obj.Sheet1.length; i++) {
+	for (var i = 0; i < obj.PopularItems.length; i++) {
             tr = $('<tr/>');
-            tr.append("<td>" + obj.Sheet1[i].User_name + "</td>");
-            tr.append("<td>" + obj.Sheet1[i].score + "</td>");
-            tr.append("<td>" + obj.Sheet1[i].team + "</td>");
+            tr.append("<td>" + obj.PopularItems[i].Name + "</td>");
+            tr.append("<td>" + obj.PopularItems[i].Price + "</td>");
             $('table').append(tr);
         }
 </script>	
