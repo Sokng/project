@@ -20,29 +20,6 @@ ul {
 li {
 	margin: 0.5em 0;
 }
-a {
-	display: flex;
-	flex-flow: row nowrap;
-	align-items: baseline;
-	text-decoration: none;
-	transition: color 0.2s ease-in-out;
-	::before {
-		height: 0.1em;
-		flex: 1 1 auto;
-		order: 1;
-		background: left bottom / contain repeat-x
-			url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3IDIiPjxjaXJjbGUgZmlsbD0iI2ZmZiIgY3g9IjMuNSIgY3k9IjEiIHI9IjEiLz48L3N2Zz4=);
-		content: "";
-	}
-	::after {
-		order: 2;
-		content: "p." attr(data-page);
-	}
-	:hover,
-	:focus {
-		color: black;
-	}
-}
 
 /* misc */
 html,
@@ -76,7 +53,7 @@ const obj = JSON.parse(request.responseText);
 var li;
 for (var i = 0; i < obj.PopularItems.length; i++) {
             li = $('<li>');
-            li.append(obj.PopularItems[i].Name /n obj.PopularItems[i].Price </li>");
+            li.append(obj.PopularItems[i].Name +"/n"+obj.PopularItems[i].Price </li>");
             $('ul').append(li);
         }
 </script>	
