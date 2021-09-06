@@ -57,8 +57,8 @@
 <script>
 var request = new XMLHttpRequest();
 var tr;
-request.open("GET", "7.json", false);
-request.send(null)
+request.open("GET", "7.json", true);
+request.send();
 const obj = JSON.parse(request.responseText);
 	     var tr;
 	for (var i = 0; i < obj.Sheet1.length; i++) {
