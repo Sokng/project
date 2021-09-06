@@ -1,20 +1,14 @@
 {
     "Sheet1": [
         {
-            "name": "John",
-            "author": "30",
-            "year": "New York",
-            "characters": "f",
-            "genre": "d",
-            "price": "g"
+            "User_name": "John",
+            "score": "30",
+            "team": "New York"
         },
         {
-            "name": "coco",
-            "author": "18",
-            "year": "TX",
-            "characters": "e",
-            "genre": "s",
-            "price": "a"
+            "User_name": "coco",
+            "score": "30",
+            "team": "TX"
         }
     ]
 }
