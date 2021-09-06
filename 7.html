@@ -46,7 +46,7 @@
 </head>
 
 <body>
-	9:07
+	<h1>9:00</h1>
 <table>
   <tr>
     <th>User_Name</th>
@@ -62,7 +62,7 @@ request.open("GET", "7.json", false);
 request.send(null)
 const obj = JSON.parse(request.responseText);
      var tr;
-        for (var i = 0; i < json.length; i++) {
+        for (var i = 0; i < obj.length; i++) {
             tr = $('<tr/>');
             tr.append("<td>" + obj.Sheet1[i].User_Name + "</td>");
             tr.append("<td>" + obj.Sheet1[i].score + "</td>");
