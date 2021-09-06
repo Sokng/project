@@ -11,41 +11,49 @@
 
 	<!-- CSS FOR STYLING THE PAGE -->
 	<style>
-		table {
-			margin: 0 auto;
-			font-size: large;
-			border: 1px solid black;
-		}
+body {
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.25;
+  background-color:#fafafa;
+}
 
-		h1 {
-			text-align: center;
-			color: #006600;
-			font-size: xx-large;
-			font-family: 'Gill Sans',
-				'Gill Sans MT', ' Calibri',
-				'Trebuchet MS', 'sans-serif';
-		}
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  margin-top:150px;
+}
 
-		td {
-			background-color: #E4F5D4;
-			border: 1px solid black;
-		}
+table caption {
+  font-size: 1.5em;
+  margin: .25em 0 .75em;
+}
 
-		th,
-		td {
-			font-weight: bold;
-			border: 1px solid black;
-			padding: 10px;
-			text-align: center;
-		}
+table tr {
+  background: #f8f8f8;
+  border: 1px solid #ddd;
+  padding: .35em;
+}
 
-		td {
-			font-weight: lighter;
-		}
-		
-		@media screen and (max-width: 639px) {
+table th, table td {
+  padding: .625em;
+  text-align: center;
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+table td img { text-align: center; }
+@media screen and (max-width: 600px) {
 
 table { border: 0; }
+
+table caption { font-size: 1.3em; }
 
 table thead { display: none; }
 
@@ -70,17 +78,14 @@ table td:before {
 }
 
 table td:last-child { border-bottom: 0; }
-
-}
-		
-		
+}	
 		
 		
 	</style>
 </head>
 
 <body>
-	<h1>Menu</h1>
+	<h1>Menu2</h1>
 <table>
   <tr>
     <th>Items</th>
