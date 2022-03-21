@@ -92,6 +92,7 @@ table td:last-child { border-bottom: 0; }
   <tr>
     <th>Items</th>
     <th>Price</th>
+    <th>pic</th>
   </tr>
 </table>
 <script>
@@ -105,6 +106,7 @@ const obj = JSON.parse(request.responseText);
             tr = $('<tr/>');
             tr.append("<td>" + obj.PopularItems[i].Name + "</td>");
             tr.append("<td>" + obj.PopularItems[i].Price + "</td>");
+            tr.append("<td>" + "<img src="https://icons.iconarchive.com/icons/jommans/mushroom/256/Search-icon.png" style="height: 15%;width: 15%">" + "</td>");
 	    
             $('table').append(tr);
         }
