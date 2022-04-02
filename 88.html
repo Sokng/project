@@ -1,0 +1,36 @@
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Neway</title>
+
+
+</head>
+
+<body>
+<table>
+  <tr>
+    <th>Items</th>
+    <th>Price</th>
+    <th>pic</th>
+  </tr>
+</table>
+<script>
+var request = new XMLHttpRequest();
+var tr;
+request.open("GET", "7.json", false);
+request.send(null)
+const obj = JSON.parse(request.responseText);
+	     var tr;
+	for (var i = 0; i < obj.PopularItems.length; i++) {
+            tr = $('<tr/>');
+            tr.append("<td>" + obj.PopularItems[i].Name + "</td>");
+            tr.append("<td>" + obj.PopularItems[i].Price + "</td>");
+	    
+            $('table').append(tr);
+        }
+</script>
+
+</body>
+
+</html>
