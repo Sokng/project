@@ -1,0 +1,717 @@
+﻿{
+    "Dimsum": [
+        {
+            "Name": "BBQ Pork Bun (叉燒包)",
+            "Price": "3.99/Bun"
+        },
+        {
+            "Name": "Sesame Balls(芝麻球)",
+            "Price": "4.99"
+        },
+        {
+            "Name": "Fried Golden Buns(炸饅頭)",
+            "Price": "5.99"
+        },
+        {
+            "Name": "Custard Buns(流沙包)",
+            "Price": "5.99"
+        },
+        {
+            "Name": "Birthday Buns(壽桃)",
+            "Price": "5.99"
+        },
+        {
+            "Name": "Steamed Shrimp Dumplings(蝦餃)",
+            "Price": "5.99"
+        },
+        {
+            "Name": "Shumai(燒賣)",
+            "Price": "5.99"
+        },
+        {
+            "Name": "Chicken Feet w/ Black Bean Sauce(豉汁鳳爪)",
+            "Price": "5.99"
+        },
+        {
+            "Name": "Pork Ribs w/ Black Bean Sauce(豉汁蒸排骨)",
+            "Price": "5.99"
+        }
+    ],
+    "Appetizer": [
+        {
+            "Name": "Seasoned Cucumber (Cold Plate)(涼拌黃瓜)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Seaweed Salad (Cold Plate)(海帶沙拉)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Sliced Octopus (Cold Plate)(冰鎮墨魚片)",
+            "Price": "8.99"
+        },
+        {
+            "Name": "Curry Fish Ball(咖哩魚丸)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Fried Fish Ball(脆炸魚丸)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "French Fries(薯條)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Edamame(毛豆)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Edamame w/ Garlic(蒜香毛豆)",
+            "Price": "8.99"
+        },
+        {
+            "Name": "Steamed Dumplings(蒸餃子)",
+            "Price": "8.99"
+        },
+        {
+            "Name": "Pan Fried Dumplings(香煎餃子)",
+            "Price": "9.99"
+        },
+        {
+            "Name": "Crispy Vegetable Egg Rolls(香脆素菜卷)",
+            "Price": "1.59/pc"
+        },
+        {
+            "Name": "Crispy Meat Egg Rolls(脆皮肉春卷)",
+            "Price": "1.59/pc"
+        },
+        {
+            "Name": "Salt & Pepper Duck Head(椒鹽鴨頭)",
+            "Price": "9.99"
+        },
+        {
+            "Name": "Salt & Pepper Tofu(椒鹽脆豆腐)",
+            "Price": "9.99"
+        },
+        {
+            "Name": "Salt & Pepper Chicken(椒鹽雞球)",
+            "Price": "10.99"
+        },
+        {
+            "Name": "Salt & Pepper Squid(椒鹽鮮魷魚)",
+            "Price": "12.99"
+        },
+        {
+            "Name": "Salt & Pepper Fish Fillet(椒鹽鮮斑球)",
+            "Price": "12.99"
+        },
+        {
+            "Name": "Salt & Pepper Spare Ribs(椒鹽排骨)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Salt & Pepper Duck Tongue(椒鹽鴨舌)",
+            "Price": "16.99"
+        },
+        {
+            "Name": "Salt & Pepper Soft Shell Crab (椒鹽軟殼蟹)",
+            "Price": "21.99"
+        },
+        {
+            "Name": "Marinated Duck Feet(滷水鴨掌)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Marinated Duck Wings(滷水鴨翼)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Seasoned Chicken Gizzards(香辣雞胗)",
+            "Price": "7.99"
+        },
+        {
+            "Name": "Fried Chicken Wings (脆炸雞翼)",
+            "Price": "9.99"
+        },
+        {
+            "Name": "Crispy Pork Intestine(脆皮炸大腸)",
+            "Price": "15.99"
+        },
+        {
+            "Name": "Whole Squid in Japanese Style(炭燒魷魚)",
+            "Price": "16.99"
+        },
+        {
+            "Name": "Marinated Platter(滷水拼盤)",
+            "Price": "26.99"
+        },
+        {
+            "Name": "Marinated Duck Tongue (滷水鴨舌)",
+            "Price": "29.99"
+        },
+        {
+            "Name": "Duck Tongue w/ Golden Egg(金沙鴨舌)",
+            "Price": "29.99"
+        }
+    ],
+    "Soup": [
+        {
+            "Name": "Chicken w/ Sweet Corn Soup(雞茸粟米羹)",
+            "Price": "10.99"
+        },
+        {
+            "Name": "Minced Beef w/ Egg White Soup(西湖牛肉羹)",
+            "Price": "10.99"
+        },
+        {
+            "Name": "Hot & Sour Soup(京都酸辣湯)",
+            "Price": "10.99"
+        },
+        {
+            "Name": "House Special Seafood Soup(海皇滑豆腐羹)",
+            "Price": "13.99"
+        },
+        {
+            "Name": "Fish Maw w/ Crab Meat Soup(蟹肉魚肚滑豆腐羹)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Clam Soup(生滾蜆湯)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Lobster Soup(生滾龍蝦湯)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Sea Cucumber w/ Fresh Vegetable(紅燒刺參)",
+            "Price": "59.99"
+        },
+        {
+            "Name": "Braised Whole Abalone w/ Oyster Sauce(蠔皇原隻鮑魚)",
+            "Price": "119.99"
+        }
+    ],
+    "Party": [
+        {
+            "Name": "Party for 6 (六人和)",
+            "Price": "168",
+            "Desc": "It included Peking Duck(正宗北京片皮鴨), Duck Soup w/ Vegetables(生滾滋味鴨湯), Salt & Pepper Shrimp in Shell(椒鹽焗中蝦), Sizzling Beef Fillet w/ Black Pepper Sauce(鐵板黑椒牛柳), Clam w/ Black Bean Sauce(豉椒炒蜆), Fish Fillet in Sichuan Style(水煮魚片), Youngcho Fried Rice(揚州炒飯)"
+        },
+        {
+            "Name": "Party for 10 (10人和)",
+            "Price": "338",
+            "Desc": "It included Peking Duck(正宗北京片皮鴨), Duck Soup w/ Vegetables(生滾滋味鴨湯), Walnuts Shrimp w/ Mayonnaise Sauce(核桃蝦球), Salt & Pepper Fish Fillet(椒鹽斑球), Steamed Scallop w/ Vermicelli(蒜蓉粉絲蒸扇貝), Double Lobsters w/ Ginger & Onion(薑蔥焗雙龍蝦), Calamari w/ X.O. Sauce(X.O.醬花枝), Clam w/ Black Bean Sauce(豉椒炒蜆), Triple Mushrooms w/ Vegetable(三菇扒菜膽), Chinese Sausage Fried Rice(臘味炒飯)"
+        }
+    ],
+    "Seafood": [
+        {
+            "Name": "Salt & Pepper Shrimp in Shell(椒鹽焗中蝦)",
+            "Price": "12.99"
+        },
+        {
+            "Name": "Stir-fried Squid w/ Shrimp Paste(蝦醬爆鮮魷魚)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Calamari w/ X.O. Sauce(X.O.醬爆花枝)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Kung Pao Shrimp(宮保蝦球)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Walnuts Shrimp w/ Mayonnaise Sauce(核桃蝦球)",
+            "Price": "15.99"
+        },
+        {
+            "Name": "Cashew Shrimp(腰果蝦球)",
+            "Price": "15.99"
+        },
+        {
+            "Name": "Clam w/ Black Bean Sauce(豉椒炒蜆)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Steamed Scallop w/ Vermicelli(蒜蓉粉絲蒸扇貝)",
+            "Price": "15.99"
+        },
+        {
+            "Name": "Clam w/ Japanese Wine(清酒煮蜆)",
+            "Price": "15.99"
+        },
+        {
+            "Name": "Crispy Oyster(脆炸生蠔)",
+            "Price": "15.99"
+        },
+        {
+            "Name": "Oyster w/ Golden Egg(金沙生蠔)",
+            "Price": "17.99"
+        },
+        {
+            "Name": "Stir-fried Fish Fillet(油泡斑球)",
+            "Price": "14.99"
+        },
+        {
+            "Name": "Fish Fillet in Sichuan Style(水煮魚片)",
+            "Price": "16.99"
+        },
+        {
+            "Name": "Lobster Sashimi(龍蝦刺身 )",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Steamed Lobster(清蒸龍蝦)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Steamed Lobster w/ Garlic(蒜蓉蒸龍蝦)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Lobster w/ Ginger Onion(薑蔥龍蝦)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Salt & Pepper Lobster(椒鹽龍蝦)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Sizzling Lobster w/ Black Pepper & Beer(鐵板黑椒啤酒龍蝦)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Lobster on Pan Fried Noodle(龍蝦煎兩麵皇)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Steamed Dungeness Crab(清蒸大蟹)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Steamed Dungeness Crab w/ Garlic(蒜蓉蒸大蟹)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Salt & Pepper Dungeness Crab(椒鹽大蟹)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Dungeness Crab in Hong Kong Style(港式避風塘炒大蟹)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Dungeness Crab w/ Golden Egg(金沙焗大蟹)",
+            "Price": "Seasonal"
+        },
+        {
+            "Name": "Dungeness Crab on Lotus Leaf w/ Rice(荷葉大蟹蒸飯)",
+            "Price": "Seasonal"
+        }
+    ],
+    "Pork_Beef": [
+        {
+            "Name": "Sweet & Sour Spare Ribs(生炒骨)",
+            "Price": "15.99 "
+        },
+        {
+            "Name": "Peking Style Spare Ribs(京都排骨)",
+            "Price": "15.99 "
+        },
+        {
+            "Name": "Spare Ribs in Japanese Style(炭燒骨)",
+            "Price": "16.99 "
+        },
+        {
+            "Name": "Spare Ribs w/ Golden Egg(酥香金沙骨)",
+            "Price": "17.99 "
+        },
+        {
+            "Name": "Kung Pao Beef(宮保牛肉)",
+            "Price": "14.99 "
+        },
+        {
+            "Name": "Mongolian Beef(蒙古牛肉)",
+            "Price": "14.99 "
+        },
+        {
+            "Name": "Beef in Sichuan Style(水煮牛肉)",
+            "Price": "16.99 "
+        },
+        {
+            "Name": "Braised Aged Pork w/ Preserved Vegetable(梅菜扣肉)",
+            "Price": "14.99 + $5 Add: Taro (加芋頭)"
+        },
+        {
+            "Name": "Beef Fillet w/ Thousand Cook(古法蒜香牛柳)",
+            "Price": "16.99 "
+        },
+        {
+            "Name": "Sizzling Beef Fillet w/ Black Pepper Sauce(鐵板黑椒牛柳)",
+            "Price": "16.99 "
+        },
+        {
+            "Name": "Sizzling Beef Ribs w/ Black Pepper Sauce(鐵板黑椒牛仔骨)",
+            "Price": "18.99 "
+        }
+    ],
+    "Chicken_Duck": [
+        {
+            "Name": "Kung Pao Chicken(宮保雞球)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "General Tso Chicken(左宗棠雞)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Spicy Chicken(辣子雞)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Orange Chicken(香橙雞球)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Sesame Chicken(芝麻雞)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Sweet & Sour Chicken(甜酸雞)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Chicken w/ Thousand Cook(古法蒜香雞球)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Princess Chicken (瑤柱貴妃雞)",
+            "Price": "18.99 "
+        },
+        {
+            "Name": "Steamed Chicken w/ Shredded Onion(蔥油淋雞)",
+            "Price": "19.99 "
+        },
+        {
+            "Name": "Roasted Duck (明爐燒鴨 )",
+            "Price": "18.99 "
+        },
+        {
+            "Name": "Peking Duck(正宗北京片皮鴨)",
+            "Price": "45.99 ",
+            "Desc": "Optional 2nd Course: Stir-fried Duck Meat (炒鴨絲)  ----- $8.99 \r\n<br>\r\nOptional 2nd Course: Duck Soup (鴨湯)  ------------------ $8.99\r\n<br>\r\nOptional 2nd Course: Duck Meat Fried Rice (鴨肉炒飯) ---- $9.99"
+        }
+    ],
+    "Hot Pot": [
+        {
+            "Name": "Sizzling Chicken Hot Pot(砂窩雞煲)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Curry Chicken Hot Pot(椰香咖哩雞煲)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Taro & Chicken Hot Pot(香芋滑雞煲)",
+            "Price": "13.99 "
+        },
+        {
+            "Name": "Salted Fish & Chicken Tofu Hot Pot (鹹魚雞粒豆腐煲)",
+            "Price": "16.99 "
+        },
+        {
+            "Name": "Eggplant w/ Garlic Sauce Hot Pot(魚香茄子煲)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Fish Fillet in Black Pepper Sauce Hot Pot(黑椒斑球煲)",
+            "Price": "14.99 "
+        },
+        {
+            "Name": "Beef in Satay Sauce Hot Pot(沙嗲牛肉煲)",
+            "Price": "15.99 "
+        },
+        {
+            "Name": "Beef Brisket Hot Pot(秘製牛腩煲)",
+            "Price": "17.99 "
+        },
+        {
+            "Name": "Beef Ribs w/ Eggplant Hot Pot(黑椒茄子牛仔骨煲)",
+            "Price": "19.99 "
+        }
+    ],
+    "Vegetable_Tofu": [
+        {
+            "Name": "Seasonal Vegetable(時菜)",
+            "Price": "Seasonal",
+            "Desc": "Snow Pea Leaf, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Lettuce, Broccoli, <br>(Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 芥菜, 生菜, 西蘭花<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$8) "
+        },
+        {
+            "Name": "Snow Pea Leaf(豆苗)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$8) "
+        },
+        {
+            "Name": "Water Spinach(通心菜)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$9)"
+        },
+        {
+            "Name": "Baby Bok Choy(白菜)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$10)"
+        },
+        {
+            "Name": "Choysum(油菜)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$11)"
+        },
+        {
+            "Name": "Gai Lan(芥蘭)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$12)"
+        },
+        {
+            "Name": "Gai Lan(芥菜)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$13)"
+        },
+        {
+            "Name": "Lettuce(生菜)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$14)"
+        },
+        {
+            "Name": "Broccoli(西蘭花)",
+            "Price": "Seasonal",
+            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$15)"
+        },
+        {
+            "Name": "Stir-fried Shredded Potato(香辣土豆絲)",
+            "Price": "9.99 "
+        },
+        {
+            "Name": "Ma Poh Tofu(麻婆滑豆腐)",
+            "Price": "10.99 "
+        },
+        {
+            "Name": "Crispy Golden Tofu(黃金脆豆腐)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Vegetable Delight(鼎湖羅漢齋)",
+            "Price": "14.99 "
+        }
+    ],
+    "Rice_Noodle": [
+        {
+            "Name": "Sichuan Style Udon(四川湯烏冬)",
+            "Price": "10.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
+        },
+        {
+            "Name": "Wonton Noodle Soup(雲吞麵)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
+        },
+        {
+            "Name": "Beef Lo Mein(牛肉撈麵)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.01"
+        },
+        {
+            "Name": "Chicken Lo Mein(雞肉撈麵)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.02"
+        },
+        {
+            "Name": "Beef Chow Mein(牛肉炒麵)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.03"
+        },
+        {
+            "Name": "Chicken Chow Mein(雞肉炒麵)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.04"
+        },
+        {
+            "Name": "Satay Beef Udon Soup(沙嗲牛肉湯烏冬)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.05"
+        },
+        {
+            "Name": "Sizzling Udon & Chicken w/ Satay Sauce(鐵板沙嗲滑雞烏冬)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.06"
+        },
+        {
+            "Name": "Rice Stick Noodle w/ Beef(牛肉炒米粉)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.07"
+        },
+        {
+            "Name": "Rice Stick Noodle w/ Chicken(雞肉炒米粉)",
+            "Price": "12.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.08"
+        },
+        {
+            "Name": "Rice Stick Noodle w/ Shrimp(蝦仁炒米粉)",
+            "Price": "13.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.09"
+        },
+        {
+            "Name": "Curry Rice Stick Noodle w/ Shrimp & Chicken(咖哩蝦仁雞肉炒米粉)",
+            "Price": "13.99 ",
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.10"
+        },
+        {
+            "Name": "Flat Rice Noodle w/ Beef (乾炒牛肉河粉)",
+            "Price": "13.99 "
+        },
+        {
+            "Name": "Flat Rice Noodle w/ Chicken (乾炒雞肉河粉)",
+            "Price": "13.99 "
+        },
+        {
+            "Name": "Chicken Fried Rice(雞肉炒飯)",
+            "Price": "11.99 "
+        },
+        {
+            "Name": "Beef Fried Rice(生炒牛肉飯)",
+            "Price": "11.99 "
+        },
+        {
+            "Name": "B.B.Q. Pork Fried Rice(叉燒炒飯)",
+            "Price": "11.99 "
+        },
+        {
+            "Name": "Pineapple & Chicken Fried Rice(菠蘿雞粒炒飯)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Shrimp Fried Rice(鮮蝦炒飯)",
+            "Price": "13.99 "
+        },
+        {
+            "Name": "Youngcho Fried Rice(揚州炒飯)",
+            "Price": "13.99 "
+        },
+        {
+            "Name": "Salted Fish & Chicken Fried Rice(鹹魚雞粒炒飯)",
+            "Price": "15.99 "
+        },
+        {
+            "Name": "Chinese Sausage Fried Rice(臘味炒飯)",
+            "Price": "15.99 "
+        },
+        {
+            "Name": "Steamed Rice(絲苗米飯)",
+            "Price": "1.50/Bowl（碗）"
+        }
+    ],
+    "Soft_Drinks": [
+        {
+            "Name": "Bottle Water(礦泉水)",
+            "Price": "1.99 "
+        },
+        {
+            "Name": "Soft Drinks(各式汽水)",
+            "Price": "2.99 "
+        },
+        {
+            "Name": "Arizona Green Tea(亞利桑那綠茶)",
+            "Price": "3.99 "
+        },
+        {
+            "Name": "Wong Lo Kat Herbal Tea(王老吉)",
+            "Price": "3.99 "
+        },
+        {
+            "Name": "Mexican Coke(墨西哥可樂)",
+            "Price": "4.99 "
+        },
+        {
+            "Name": "ITO EN Oi Ocha （Unsweetened Green Tea）(伊藤園無糖綠茶)",
+            "Price": "5.99 "
+        },
+        {
+            "Name": "Red Bull(紅牛)",
+            "Price": "6.99 "
+        },
+        {
+            "Name": "Assorted Juice (Pineapple, Cranberry, Orange)(各式果汁(菠蘿，蔓越莓，橙汁）)",
+            "Price": "3.99 "
+        },
+        {
+            "Name": "Lemonade(檸檬汁)",
+            "Price": "3.99 "
+        },
+        {
+            "Name": "Hot Tea （Cup）(熱茶 (杯))",
+            "Price": "3.99 "
+        },
+        {
+            "Name": "Iced Green Tea (凍綠茶 )",
+            "Price": "4.99 "
+        },
+        {
+            "Name": "    (Original, Mango, Passion Fruit or Rose)(     (原味，芒果，百香果，玫瑰))"
+        },
+        {
+            "Name": "Black Coffee (Hot or Cold)(黑咖啡（熱，凍）)",
+            "Price": "4.99 "
+        },
+        {
+            "Name": "Honey Lemon (Hot or Cold)(檸蜜（熱，凍）)",
+            "Price": "4.99 "
+        },
+        {
+            "Name": "Ginseng Tea (Cup)(參茶 (杯))",
+            "Price": "4.99 "
+        },
+        {
+            "Name": "Honey Ginseng Tea (Hot or Cold)(參蜜（熱，凍）)",
+            "Price": "5.99 "
+        },
+        {
+            "Name": "Slushie (Lychee, Mango, Passion Fruit)(各式冰沙(荔枝, 芒果, 百香果）)",
+            "Price": "6.99 "
+        },
+        {
+            "Name": "Fresh Fruit Juice(新鮮果汁)",
+            "Price": "6.99 "
+        }
+    ],
+    "Snacks": [
+        {
+            "Name": "Mochi Ice Cream(雪糕糯米)",
+            "Price": "1.99/pc"
+        },
+        {
+            "Name": "Peanuts(花生)",
+            "Price": "5.99 "
+        },
+        {
+            "Name": "Cheesecake(芝士蛋糕)",
+            "Price": "7.99 "
+        },
+        {
+            "Name": "Walnuts(核桃)",
+            "Price": "9.99 "
+        },
+        {
+            "Name": "Cashew(腰果)",
+            "Price": "9.99 "
+        },
+        {
+            "Name": "Shredded Squid(火焰魷魚絲)",
+            "Price": "12.99 "
+        },
+        {
+            "Name": "Fruit Platter(水果盤)",
+            "Price": "29.99 "
+        }
+    ]
+}
