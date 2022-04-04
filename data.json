@@ -1,39 +1,39 @@
 ﻿{
     "Dimsum": [
         {
-            "Name": "BBQ Pork Bun (叉燒包)",
+            "Name": "BBQ Pork Bun<br>(叉燒包)",
             "Price": "$3.99/Bun"
         },
         {
-            "Name": "Sesame Balls(芝麻球)",
+            "Name": "Sesame Balls<br>(芝麻球)",
             "Price": "$4.99 "
         },
         {
-            "Name": "Fried Golden Buns(炸饅頭)",
+            "Name": "Fried Golden Buns<br>(炸饅頭)",
             "Price": "$5.99 "
         },
         {
-            "Name": "Custard Buns(流沙包)",
+            "Name": "Custard Buns<br>(流沙包)",
             "Price": "$5.99 "
         },
         {
-            "Name": "Birthday Buns(壽桃)",
+            "Name": "Birthday Buns<br>(壽桃)",
             "Price": "$5.99 "
         },
         {
-            "Name": "Steamed Shrimp Dumplings(蝦餃)",
+            "Name": "Steamed Shrimp Dumplings<br>(蝦餃)",
             "Price": "$5.99 "
         },
         {
-            "Name": "Shumai(燒賣)",
+            "Name": "Shumai<br>(燒賣)",
             "Price": "$5.99 "
         },
         {
-            "Name": "Chicken Feet w/ Black Bean Sauce(豉汁鳳爪)",
+            "Name": "Chicken Feet w/ Black Bean Sauce<br>(豉汁鳳爪)",
             "Price": "$5.99 "
         },
         {
-            "Name": "Pork Ribs w/ Black Bean Sauce(豉汁蒸排骨)",
+            "Name": "Pork Ribs w/ Black Bean Sauce<br>(豉汁蒸排骨)",
             "Price": "$5.99 "
         }
     ],
