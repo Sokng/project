@@ -447,47 +447,47 @@
         {
             "Name": "Seasonal Vegetable<br>(時菜)",
             "Price": "Seasonal",
-            "Desc": "Snow Pea Leaf, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Lettuce, Broccoli, <br>(Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 芥菜, 生菜, 西蘭花<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$8) "
+            "Desc": "Snow Pea Leaf, Water Spinach, Baby Bok Choy, Choysum, Gai Lan, Lettuce, Broccoli<br>(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>(Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>豆苗, 通心菜, 白菜, 油菜, 芥蘭, 芥菜, 生菜, 西蘭花<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8) "
         },
         {
             "Name": "Snow Pea Leaf<br>(豆苗)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$8) "
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8) "
         },
         {
             "Name": "Water Spinach<br>(通心菜)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$9)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
         },
         {
             "Name": "Baby Bok Choy<br>(白菜)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$10)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
         },
         {
             "Name": "Choysum<br>(油菜)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$11)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
         },
         {
             "Name": "Gai Lan<br>(芥蘭)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$12)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
         },
         {
             "Name": "Gai Lan<br>(芥菜)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$13)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$9)"
         },
         {
             "Name": "Lettuce<br>(生菜)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$14)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
         },
         {
             "Name": "Broccoli<br>(西蘭花)",
             "Price": "Seasonal",
-            "Desc": "Stir-fried, Garlic, Healthy Soup, Oyster Sauce）<br>（Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8) <br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳）<br>（馬拉盞$2，蝦醬$2，XO醬$5，三菇$15)"
+            "Desc": "(Stir-fried, Garlic, Healthy Soup, Oyster Sauce)<br>Malaysian$2, Shrimp Paste$2，XO$5，Triple Mushroom$8)<br>(以上時菜可選擇: 清炒, 蒜蓉, 上湯, 魚香, 蠔油, 腐乳)<br>(馬拉盞$2，蝦醬$2，XO醬$5，三菇$8)"
         },
         {
             "Name": "Stir-fried Shredded Potato<br>(香辣土豆絲)",
@@ -520,52 +520,52 @@
         {
             "Name": "Beef Lo Mein<br>(牛肉撈麵)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.01"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Chicken Lo Mein<br>(雞肉撈麵)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.02"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Beef Chow Mein<br>(牛肉炒麵)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.03"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Chicken Chow Mein<br>(雞肉炒麵)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.04"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Satay Beef Udon Soup<br>(沙嗲牛肉湯烏冬)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.05"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Sizzling Udon & Chicken w/ Satay Sauce<br>(鐵板沙嗲滑雞烏冬)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.06"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Rice Stick Noodle w/ Beef<br>(牛肉炒米粉)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.07"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Rice Stick Noodle w/ Chicken<br>(雞肉炒米粉)",
             "Price": "$12.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.08"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Rice Stick Noodle w/ Shrimp<br>(蝦仁炒米粉)",
             "Price": "$13.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.09"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Curry Rice Stick Noodle w/ Shrimp & Chicken<br>(咖哩蝦仁雞肉炒米粉)",
             "Price": "$13.99 ",
-            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.10"
+            "Desc": "Optional: Add Beef, Chicken or Seasonal Vegetable (加牛肉, 雞肉或青菜) - $3.00<br>Optional: Add Shrimp (加蝦) - $5.00"
         },
         {
             "Name": "Flat Rice Noodle w/ Beef<br>(乾炒牛肉河粉)",
