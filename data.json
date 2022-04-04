@@ -638,7 +638,7 @@
             "Price": "$5.99 "
         },
         {
-            "Name": "Red Bull(紅牛)",
+            "Name": "Red Bull<br>(紅牛)",
             "Price": "$6.99 "
         },
         {
@@ -654,7 +654,7 @@
             "Price": "$3.99 "
         },
         {
-            "Name": "Iced Green Tea (凍綠茶)",
+            "Name": "Iced Green Tea<br>(凍綠茶)",
             "Price": "$4.99 ",
             "Desc": "(Original, Mango, Passion Fruit or Rose)((原味，芒果，百香果，玫瑰))"
         },
